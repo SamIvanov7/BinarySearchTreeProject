@@ -32,7 +32,7 @@ The AVL Tree is a self-balancing binary search tree where the difference between
 
 2. **Build the project:**
 
-   Open the project in your preferred C# IDE (like Visual Studio) and build the solution.
+   Open the project in your preferred C# IDE and build the solution.
 
 3. **Run the program:**
 
